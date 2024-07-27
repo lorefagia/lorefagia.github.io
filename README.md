@@ -1,3 +1,3 @@
 # Website
 
-Please visit [my website](https://lorefagia.github.io)
+Please visit my website at [lorefagia.github.io](https://lorefagia.github.io)
